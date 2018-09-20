@@ -1,5 +1,7 @@
 # Datadog Agent Integrations
 
+[![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/integrations-extras.svg)](https://www.staging.guardrails.io)
+
 [![Build Status][1]][2]
 [![Build status][9]][10]
 
